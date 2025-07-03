@@ -1,4 +1,4 @@
-
+# this is docker compose file
 services :
   web :
     image : "vbhamyo/notes-app:latest"
