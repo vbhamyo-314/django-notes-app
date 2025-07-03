@@ -11,7 +11,7 @@
                 }
             }
         }
-        stage("Code") {
+        stage("Code Clone") {
             steps {
                 script{
                        clone("https://github.com/vbhamyo-314/django-notes-app.git","main")
