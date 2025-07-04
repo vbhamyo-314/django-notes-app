@@ -3,7 +3,7 @@
     agent {label "vinod"}
 
     stages {
-        stage ("Hello")
+        stage ("Hello World")
         {
             steps{
                 script{
